@@ -1,1 +1,1 @@
-So far, I have learned how to use Git, clone repositories, and make commits.
+What I have learned from this course: So far, I have learned how to use Git, clone repositories, and make commits.
